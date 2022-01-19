@@ -1,0 +1,692 @@
+Uri: https://www.crossgunsshd.ie/
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\index.htm
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/home
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\home.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/node/4
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\node\4.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\css\css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css
+Content Type: text/css
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/css/css_WkA3l5PABYsmAT6RuP_eKPA5CHBuLYSgAnfF-uTAwZI.css
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\css\css_WkA3l5PABYsmAT6RuP_eKPA5CHBuLYSgAnfF-uTAwZI.css
+Content Type: text/css
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\css\css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css
+Content Type: text/css
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/css/css_oXi39LBmTmlYvq05m2Nj0dFicGYPHQpEtX09EjuAZMc.css
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\css\css_oXi39LBmTmlYvq05m2Nj0dFicGYPHQpEtX09EjuAZMc.css
+Content Type: text/css
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/css/css_QBG5SpmGEglGdgPmxuP2Iqn5mq6vOmHB1n5NDJ6fyog.css
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\css\css_QBG5SpmGEglGdgPmxuP2Iqn5mq6vOmHB1n5NDJ6fyog.css
+Content Type: text/css
+
+Uri: https://www.crossgunsshd.ie/documentation
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\documentation.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/documentation/architecture
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\documentation\architecture.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/documentation/engineering
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\documentation\engineering.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/documentation/landscape-architecture
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\documentation\landscape-architecture.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/documentation/other
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\documentation\other.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/documentation/planning
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\documentation\planning.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/drawings
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\drawings.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/drawings/architecture
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\drawings\architecture.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/drawings/engineering
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\drawings\engineering.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/drawings/landscape-architecture
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\drawings\landscape-architecture.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/drawings/other
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\drawings\other.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/planning-notice
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\planning-notice.html
+Content Type: text/html
+
+Uri: https://code.jquery.com/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/js/js_38VWQ3jjQx0wRFj7gkntZr077GgJoGn5nv3v05IeLLo.js
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\js\js_38VWQ3jjQx0wRFj7gkntZr077GgJoGn5nv3v05IeLLo.js
+Content Type: text/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\bootstrap\3.4.1\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/js/js_Sk6NvWD2hXqysVoGI3DF3NuLJCe0FZJ7oLtsSQ5MTYU.js
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\js\js_Sk6NvWD2hXqysVoGI3DF3NuLJCe0FZJ7oLtsSQ5MTYU.js
+Content Type: text/javascript
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/styles/1140x761/public/crossguns1.jpg?itok=kXrHA9aV
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\styles\1140x761\public\crossguns1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/styles/1140x761/public/corssguns2.jpg?itok=nYQmWXYj
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\styles\1140x761\public\corssguns2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.crossgunsshd.ie/misc/throbber-inactive.png
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\misc\throbber-inactive.png
+Content Type: image/png
+
+Uri: https://www.crossgunsshd.ie/misc/throbber-active.gif
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\misc\throbber-active.gif
+Content Type: image/gif
+
+Uri: https://www.crossgunsshd.ie/misc/grippie.png
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\misc\grippie.png
+Content Type: image/png
+
+Uri: https://www.crossgunsshd.ie/misc/draggable.png
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\misc\draggable.png
+Content Type: image/png
+
+Uri: https://www.crossgunsshd.ie/misc/tree.png
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\misc\tree.png
+Content Type: image/png
+
+Uri: https://www.crossgunsshd.ie/misc/tree-bottom.png
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\misc\tree-bottom.png
+Content Type: image/png
+
+Uri: https://www.crossgunsshd.ie/misc/message-24-ok.png
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\misc\message-24-ok.png
+Content Type: image/png
+
+Uri: https://www.crossgunsshd.ie/misc/message-24-warning.png
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\misc\message-24-warning.png
+Content Type: image/png
+
+Uri: https://www.crossgunsshd.ie/misc/message-24-error.png
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\misc\message-24-error.png
+Content Type: image/png
+
+Uri: https://www.crossgunsshd.ie/misc/help.png
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\misc\help.png
+Content Type: image/png
+
+Uri: https://www.crossgunsshd.ie/misc/menu-expanded.png
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\misc\menu-expanded.png
+Content Type: image/png
+
+Uri: https://www.crossgunsshd.ie/misc/menu-collapsed.png
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\misc\menu-collapsed.png
+Content Type: image/png
+
+Uri: https://www.crossgunsshd.ie/misc/progress.gif
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\misc\progress.gif
+Content Type: image/gif
+
+Uri: https://www.crossgunsshd.ie/sites/all/modules/ctools/images/status-active.gif
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\all\modules\ctools\images\status-active.gif
+Content Type: image/gif
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400,700,900,400italic
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\css.css
+Content Type: text/css
+
+Uri: https://www.crossgunsshd.ie/sites/default/themes/planningtheme/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\themes\planningtheme\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.crossgunsshd.ie/sites/default/themes/planningtheme/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\themes\planningtheme\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.crossgunsshd.ie/sites/default/themes/planningtheme/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\themes\planningtheme\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.crossgunsshd.ie/sites/default/themes/planningtheme/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\themes\planningtheme\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.crossgunsshd.ie/sites/default/themes/planningtheme/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\themes\planningtheme\assets\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.crossgunsshd.ie/sites/default/themes/planningtheme/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\themes\planningtheme\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.crossgunsshd.ie/node/9
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\node\9.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/node/29
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\node\29.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723-OMP _ Design Statement-Section 7.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723-OMP _ Design Statement-Section 7.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP _ Building Life Cycle Report.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP _ Building Life Cycle Report.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP _ Design Statement.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP _ Design Statement.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP _ HQA.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP _ HQA.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP _ Schedule.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP _ Schedule.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/modules/file/icons/application-pdf.png
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\modules\file\icons\application-pdf.png
+Content Type: image/png
+
+Uri: https://www.crossgunsshd.ie/node/30
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\node\30.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/DMURS Statement ILTP.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\DMURS Statement ILTP.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Engineering Assesment Report.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Engineering Assesment Report.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Flood Risk Assesment.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Flood Risk Assesment.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/ILTP issue sheet.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\ILTP issue sheet.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Outline Construction%2C Demolition and Environmental Waste Management Plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Outline Construction, Demolition and Environmental Waste Management Plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Planning Stage Structural Report.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Planning Stage Structural Report.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Quality Audit by Traffico Road Safety Engineering.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Quality Audit by Traffico Road Safety Engineering.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Traffic and Transportation Assessment and Mobility Management Plan ILTP.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Traffic and Transportation Assessment and Mobility Management Plan ILTP.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/node/31
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\node\31.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20D04 - Landscape Report.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20D04 - Landscape Report.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/node/33
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\node\33.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Archaeological Assessment.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Archaeological Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Architectural Heritage Impact Assessment.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Architectural Heritage Impact Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Bat Assessment.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Bat Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Build To Rent Market Justification Report.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Build To Rent Market Justification Report.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Ecological Impact Assessment.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Ecological Impact Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Energy Analysis Report.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Energy Analysis Report.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/IN2 issue sheet.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\IN2 issue sheet.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Microclimatic Wind Analysis and Pedestrian Comfort.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Microclimatic Wind Analysis and Pedestrian Comfort.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Natura Impact Statement.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Natura Impact Statement.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Operational Waste Management Plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Operational Waste Management Plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Site Lighting Report.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Site Lighting Report.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Sunlight and Daylight Analysis.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Sunlight and Daylight Analysis.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Townscape and Visual Impact Assessment.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Townscape and Visual Impact Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Utilities Report.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Utilities Report.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Verified Photomontages and CGI's.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Verified Photomontages and CGI's.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Whitehill Environmental issue sheet.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Whitehill Environmental issue sheet.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/node/34
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\node\34.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Cover letters for Consultees.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Cover letters for Consultees.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Cover Letter to ABP.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Cover Letter to ABP.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Cover Letter to DCC.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Cover Letter to DCC.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Draft planning covenant.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Draft planning covenant.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/EIA Screening Report.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\EIA Screening Report.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Part V Pack.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Part V Pack.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Planning Report.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Planning Report.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/node/10
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\node\10.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/node/39
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\node\39.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/css/css_RBhWQXG9hmkPjinRAgOy9avjRtkTSVwtpN70QZAkqe8.css
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\css\css_RBhWQXG9hmkPjinRAgOy9avjRtkTSVwtpN70QZAkqe8.css
+Content Type: text/css
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-00-00-DR-A-1000 _ Site Location Plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-00-00-DR-A-1000 _ Site Location Plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BA-00-DR-A-1000 _ Block A - Ground Floor Plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BA-00-DR-A-1000 _ Block A - Ground Floor Plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BA-03-DR-A-1002 _ Block A - Level 03.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BA-03-DR-A-1002 _ Block A - Level 03.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BA-04-DR-A-1003 _ Block A - Level 04.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BA-04-DR-A-1003 _ Block A - Level 04.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BA-05-DR-A-1004 _ Block A - Level 05.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BA-05-DR-A-1004 _ Block A - Level 05.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BA-06-DR-A-1005 _ Block A - Level 06.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BA-06-DR-A-1005 _ Block A - Level 06.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BA-07-DR-A-1006 _ Block A - Roof Plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BA-07-DR-A-1006 _ Block A - Roof Plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BA-ZZ-DR-A-1001 _ Block A - Levels 01-02.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BA-ZZ-DR-A-1001 _ Block A - Levels 01-02.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BA-ZZ-DR-A-2010 _ Block A - Elevations.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BA-ZZ-DR-A-2010 _ Block A - Elevations.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BB-00-DR-A-1000 _ Block B - Ground Floor Plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BB-00-DR-A-1000 _ Block B - Ground Floor Plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BB-06-DR-A-1002 _ Block B - Level 06.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BB-06-DR-A-1002 _ Block B - Level 06.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BB-07-DR-A-1003 _ Block B - Roof Plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BB-07-DR-A-1003 _ Block B - Roof Plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BB-ZZ-DR-A-1001 _ Block B - Levels 01-05.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BB-ZZ-DR-A-1001 _ Block B - Levels 01-05.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BB-ZZ-DR-A-2011 _ Block B - Elevations.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BB-ZZ-DR-A-2011 _ Block B - Elevations.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BC-00-DR-A-1000 _ Block C - Ground Floor Plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BC-00-DR-A-1000 _ Block C - Ground Floor Plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BC-07-DR-A-1002 _ Block C - Level 07.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BC-07-DR-A-1002 _ Block C - Level 07.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BC-11-DR-A-1004 _ Block C - Level 11.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BC-11-DR-A-1004 _ Block C - Level 11.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BC-12-DR-A-1005 _ Block C - Roof Plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BC-12-DR-A-1005 _ Block C - Roof Plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BC-ZZ-DR-A-1001 _ Block C - Levels 01-06.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BC-ZZ-DR-A-1001 _ Block C - Levels 01-06.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BC-ZZ-DR-A-1003 _ Block C - Levels 08-10.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BC-ZZ-DR-A-1003 _ Block C - Levels 08-10.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BC-ZZ-DR-A-2012 _ Block C - Proposed North %26 South Elevations.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BC-ZZ-DR-A-2012 _ Block C - Proposed North & South Elevations.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-BC-ZZ-DR-A-2013 _ Block C - Proposed East %26 West Elevations.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-BC-ZZ-DR-A-2013 _ Block C - Proposed East & West Elevations.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-MDI-XX-DC-A-0001 _ Master Document Index.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-MDI-XX-DC-A-0001 _ Master Document Index.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-00-DR-A-1000 _ Proposed Level 00 - Site plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-ZZ-00-DR-A-1000 _ Proposed Level 00 - Site plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-00-DR-A-1001 _ Proposed Level 00 - Site plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-ZZ-00-DR-A-1001 _ Proposed Level 00 - Site plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-01-DR-A-7001 _ Opposing windows diagram.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-ZZ-01-DR-A-7001 _ Opposing windows diagram.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-01-DR-A-7002 _ Perforated metal screens on the South elevation.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-ZZ-01-DR-A-7002 _ Perforated metal screens on the South elevation.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-B1-DR-A-1000 _ Proposed Basement Floor Plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-ZZ-B1-DR-A-1000 _ Proposed Basement Floor Plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-ZZ-DR-A-2001 _ Site Elevation 01 - North East (to Canal).pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-ZZ-ZZ-DR-A-2001 _ Site Elevation 01 - North East (to Canal).pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-ZZ-DR-A-2002 _ Site Elevation 02 - South West.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-ZZ-ZZ-DR-A-2002 _ Site Elevation 02 - South West.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-ZZ-DR-A-3001 _ Site Sections - AA %26 BB.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-ZZ-ZZ-DR-A-3001 _ Site Sections - AA & BB.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-ZZ-DR-A-3002 _ Site Sections - CC %26 DD.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-ZZ-ZZ-DR-A-3002 _ Site Sections - CC & DD.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-ZZ-DR-A-3005 _ Refuse and bicycle stores.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-ZZ-ZZ-DR-A-3005 _ Refuse and bicycle stores.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-ZZ-DR-A-3006 _ Existing boundary wall along the canal tow path - Record elevation and section.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-ZZ-ZZ-DR-A-3006 _ Existing boundary wall along the canal tow path - Record elevation and section.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-ZZ-DR-A-3007 _ Existing boundary wall along the canal tow path - Existing and proposed Southern elevation.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-ZZ-ZZ-DR-A-3007 _ Existing boundary wall along the canal tow path - Existing and proposed Southern elevation.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/1723A-OMP-ZZ-ZZ-DR-A-7000 _ Wintergardens - North East Elevation (to Canal).pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\1723A-OMP-ZZ-ZZ-DR-A-7000 _ Wintergardens - North East Elevation (to Canal).pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/MSL26096-EL-REV 4-01 _ Elevations.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\MSL26096-EL-REV 4-01 _ Elevations.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/MSL26096-EL-REV 4-02-06-07-08-09 _ Elevations.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\MSL26096-EL-REV 4-02-06-07-08-09 _ Elevations.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/MSL26096-EL-REV 4-03 _ Elevations.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\MSL26096-EL-REV 4-03 _ Elevations.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/MSL26096-EL-REV 4-04-05 _ Elevations.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\MSL26096-EL-REV 4-04-05 _ Elevations.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/MSL26096-T-3D-01-REV 4 _ Topographical Survey.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\MSL26096-T-3D-01-REV 4 _ Topographical Survey.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/MSL26096-T-3D-02-REV 4 _ Topographical Survey.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\MSL26096-T-3D-02-REV 4 _ Topographical Survey.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/MSL26096-T-3D-03-REV 4 _ Topographical Survey.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\MSL26096-T-3D-03-REV 4 _ Topographical Survey.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Murphy Surveys _ Document Issue Sheet.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Murphy Surveys _ Document Issue Sheet.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/node/37
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\node\37.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P001 - Document Register.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P001 - Document Register.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P010 - Proposed Site Location Map.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P010 - Proposed Site Location Map.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P100 - Proposed Road Layout %26 Levels.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P100 - Proposed Road Layout & Levels.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P130 - Proposed Sightlines.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P130 - Proposed Sightlines.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P150 - Swept Path Analysis - Fire Tender.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P150 - Swept Path Analysis - Fire Tender.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P151 - Swept Path Analysis - Refuse Vehicle.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P151 - Swept Path Analysis - Refuse Vehicle.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P190 - Typical Road Construction Details.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P190 - Typical Road Construction Details.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P195 - Proposed Road Markings %26 Signage Rev A.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P195 - Proposed Road Markings & Signage Rev A.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P200 - Proposed Drainage Layout.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P200 - Proposed Drainage Layout.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P201 - Proposed Basement Drainage Layout.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P201 - Proposed Basement Drainage Layout.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P202 - SUDS Layout %26 Details.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P202 - SUDS Layout & Details.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P210 - Proposed Attenuation Tank Details.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P210 - Proposed Attenuation Tank Details.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P215 - Proposed Hydrobrake %26 Petrol Interceptor Details.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P215 - Proposed Hydrobrake & Petrol Interceptor Details.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P230 - Public Surface Water Drainage Details.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P230 - Public Surface Water Drainage Details.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P231 - Private Surface Water Drainage Details.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P231 - Private Surface Water Drainage Details.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P232 - Public Foul Water Drainage Details - Sheet 1 of 2.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P232 - Public Foul Water Drainage Details - Sheet 1 of 2.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P233 - Public Foul Water Drainage Details - Sheet 2 of 2.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P233 - Public Foul Water Drainage Details - Sheet 2 of 2.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P300 - Proposed Watermain Layout.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P300 - Proposed Watermain Layout.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P330 - Water Supply Details - Sheet 1 of 3.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P330 - Water Supply Details - Sheet 1 of 3.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P331 - Water Supply Details - Sheet 2 of 3.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P331 - Water Supply Details - Sheet 2 of 3.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P332 - Water Supply Details - Sheet 3 of 3.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P332 - Water Supply Details - Sheet 3 of 3.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20-011 - P350 - Proposed Overland Flood Route.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20-011 - P350 - Proposed Overland Flood Route.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/node/38
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\node\38.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20D04-DR-200 Landscape Plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20D04-DR-200 Landscape Plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20D04-DR-201 Block A%2BB Typical Roof Terrace Layout.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20D04-DR-201 Block A+B Typical Roof Terrace Layout.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/20D04-DR-202 Block C Roof Terrace Layout.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\20D04-DR-202 Block C Roof Terrace Layout.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Landscaping Issue Sheet .pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Landscaping Issue Sheet .pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/node/35
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\node\35.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Mechanical and Electrical Services Installation Site Plan.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Mechanical and Electrical Services Installation Site Plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/node/8
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\node\8.html
+Content Type: text/html
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Application Form.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Application Form.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Newspaper Notice (as submitted to the Irish Daily Star).pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Newspaper Notice (as submitted to the Irish Daily Star).pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Newspaper Notice printed.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Newspaper Notice printed.pdf
+Content Type: application/pdf
+
+Uri: https://www.crossgunsshd.ie/sites/default/files/docs/Site Notice.pdf
+File Name: C:\Downloaded Web Sites\www.crossgunsshd.ie\sites\default\files\docs\Site Notice.pdf
+Content Type: application/pdf
+
