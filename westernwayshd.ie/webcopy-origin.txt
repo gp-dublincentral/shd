@@ -1,0 +1,868 @@
+Uri: https://westernwayshd.ie/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\index.htm
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/wp-content/uploads/2020/11/westernwayshd.jpg
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\uploads\2020\11\westernwayshd.jpg
+Content Type: image/jpeg
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\xfn\11.html
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/feed/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://westernwayshd.ie/comments/feed/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://westernwayshd.ie/wp-includes/css/dist/block-library/style.min.css?ver=f32a66691ddebcafe89640dcb9043b58
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-includes/css/dist/block-library/theme.min.css?ver=f32a66691ddebcafe89640dcb9043b58
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-includes\css\dist\block-library\theme.min.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=1.9.4
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\cookie-law-info\public\css\cookie-law-info-public.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=1.9.4
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\cookie-law-info\public\css\cookie-law-info-gdpr.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/themes/shd/style.css?ver=f32a66691ddebcafe89640dcb9043b58
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\shd\style.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\css\third\simple-line-icons.min.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\css\third\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\css\third\slick.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Quicksand:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&subset=latin&display=swap&ver=f32a66691ddebcafe89640dcb9043b58
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\css.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.14
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.14
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.14
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.8
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=f32a66691ddebcafe89640dcb9043b58
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\ocean-extra\assets\css\widgets.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-content/plugins/ocean-sticky-header/assets/css/style.min.css?ver=f32a66691ddebcafe89640dcb9043b58
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\ocean-sticky-header\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Aleo:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=f32a66691ddebcafe89640dcb9043b58
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\css-1.css
+Content Type: text/css
+
+Uri: https://westernwayshd.ie/wp-json/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/wp/v2/pages/6
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\wp\v2\pages\6.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2F
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2F&format=xml
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://westernwayshd.ie/wp-content/uploads/2020/10/cropped-shd-siteicon-32x32.png
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\uploads\2020\10\cropped-shd-siteicon-32x32.png
+Content Type: image/png
+
+Uri: https://westernwayshd.ie/wp-content/uploads/2020/10/cropped-shd-siteicon-192x192.png
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\uploads\2020\10\cropped-shd-siteicon-192x192.png
+Content Type: image/png
+
+Uri: https://westernwayshd.ie/wp-content/uploads/2020/10/cropped-shd-siteicon-180x180.png
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\uploads\2020\10\cropped-shd-siteicon-180x180.png
+Content Type: image/png
+
+Uri: https://westernwayshd.ie/planning-application-documents/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\planning-application-documents\index.htm
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/planning-application-documents/architecture/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\planning-application-documents\architecture\index.htm
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/planning-application-documents/engineering/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\planning-application-documents\engineering\index.htm
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/planning-application-documents/landscape/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\planning-application-documents\landscape\index.htm
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/planning-application-documents/miscellaneous/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\planning-application-documents\miscellaneous\index.htm
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/planning-application-documents/planning/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\planning-application-documents\planning\index.htm
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/planning-application-drawings/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\planning-application-drawings\index.htm
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/planning-application-drawings/architecture/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\planning-application-drawings\architecture\index.htm
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/planning-application-drawings/engineering/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\planning-application-drawings\engineering\index.htm
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/planning-application-drawings/landscape/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\planning-application-drawings\landscape\index.htm
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/particulars/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\particulars\index.htm
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=1.9.4
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\cookie-law-info\public\js\cookie-law-info-public.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-4076635-79
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\js\third\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\js\third\lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/plugins/ocean-sticky-header/assets/js/main.min.js
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\ocean-sticky-header\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-includes/js/wp-embed.min.js?ver=f32a66691ddebcafe89640dcb9043b58
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.14
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.8
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.8
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-includes\js\jquery\ui\position.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.14
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.14
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\index-1.htm
+Content Type: text/html
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff2
+Content Type: application/octet-stream
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff
+Content Type: application/font-woff
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/slick/slick.eot
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\slick\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/slick/slick.eot?
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\slick\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/slick/slick.woff
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\slick\slick.woff
+Content Type: application/font-woff
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/slick/slick.ttf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\slick\slick.ttf
+Content Type: application/octet-stream
+
+Uri: https://westernwayshd.ie/wp-content/themes/oceanwp/assets/fonts/slick/slick.svg
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\themes\oceanwp\assets\fonts\slick\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.9.1
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.9.1
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: application/octet-stream
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.9.1
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.9.1
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://westernwayshd.ie/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.9.1
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://westernwayshd.ie/wp-content/plugins/ocean-extra/assets/img/instagram-logo.png
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\ocean-extra\assets\img\instagram-logo.png
+Content Type: image/png
+
+Uri: https://westernwayshd.ie/wp-content/plugins/ocean-extra/assets/img/flickr.png
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-content\plugins\ocean-extra\assets\img\flickr.png
+Content Type: image/png
+
+Uri: https://westernwayshd.ie/wp-json/wp/v2/pages/44
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\wp\v2\pages\44.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-documents%2F
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-documents%2F&format=xml
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://westernwayshd.ie/wp-json/wp/v2/pages/57
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\wp\v2\pages\57.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-documents%2Farchitecture%2F
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-documents%2Farchitecture%2F&format=xml
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://westernwayshd.ie/library/docs/architecture/Architectural Design Statement.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\architecture\Architectural Design Statement.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/architecture/Building Lifecycle Report.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\architecture\Building Lifecycle Report.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/architecture/Housing Quality Assessment.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\architecture\Housing Quality Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/architecture/Schedule of Accommodation and Areas.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\architecture\Schedule of Accommodation and Areas.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/wp-json/wp/v2/pages/55
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\wp\v2\pages\55.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-documents%2Fengineering%2F
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-documents%2Fengineering%2F&format=xml
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://westernwayshd.ie/library/docs/engineering/Energy Statement.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\engineering\Energy Statement.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/engineering/Engineering Assessment Report.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\engineering\Engineering Assessment Report.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/engineering/Flood Risk Assessment.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\engineering\Flood Risk Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/engineering/Traffic and Transport Assessment.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\engineering\Traffic and Transport Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/wp-json/wp/v2/pages/160
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\wp\v2\pages\160.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-documents%2Flandscape%2F
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-documents%2Flandscape%2F&format=xml
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://westernwayshd.ie/library/docs/landscape/Landscape Design and Access Statement.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\landscape\Landscape Design and Access Statement.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/landscape/Landscape Management and Maintenance Plan.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\landscape\Landscape Management and Maintenance Plan.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/wp-json/wp/v2/pages/216
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\wp\v2\pages\216.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-documents%2Fmiscellaneous%2F
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-documents%2Fmiscellaneous%2F&format=xml
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://westernwayshd.ie/library/docs/misc/Archaeological Desk Study.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Archaeological Desk Study.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/Architectural Heritage Impact Assessment.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Architectural Heritage Impact Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/Bat Assessment.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Bat Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/CGI_ Verified Views.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\CGI_ Verified Views.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/Conservation Development Strategy.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Conservation Development Strategy.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/Construction Environ. Management Plan.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Construction Environ. Management Plan.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/Construction and Demolition Waste Management Plan.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Construction and Demolition Waste Management Plan.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/Draft Deed of Covenant.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Draft Deed of Covenant.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/Ecological Impact Statement.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Ecological Impact Statement.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/Hydrological & Hydrogeological Assessment.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Hydrological & Hydrogeological Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/Landscape & Visual Impacts Assessment.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Landscape & Visual Impacts Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/Management Plan.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Management Plan.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/Operational Waste Management Plan.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Operational Waste Management Plan.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/Potential Daylight & Sunlight Impact.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Potential Daylight & Sunlight Impact.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/misc/Screening Report for Appropriate Assessment.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\misc\Screening Report for Appropriate Assessment.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/wp-json/wp/v2/pages/53
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\wp\v2\pages\53.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-documents%2Fplanning%2F
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-documents%2Fplanning%2F&format=xml
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://westernwayshd.ie/library/docs/planning/EIA Screening Report.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\planning\EIA Screening Report.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/planning/Shared Accomodation Demand Report.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\planning\Shared Accomodation Demand Report.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/planning/Statement of Consistency and Planning Report.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\planning\Statement of Consistency and Planning Report.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/planning/Statement of Material Contravention.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\planning\Statement of Material Contravention.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/docs/planning/Statement of Response to An Bord Pleanála's Opinion.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\docs\planning\Statement of Response to An Bord Pleanála's Opinion.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/wp-json/wp/v2/pages/67
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\wp\v2\pages\67.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-drawings%2F
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-drawings%2F&format=xml
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://westernwayshd.ie/wp-json/wp/v2/pages/71
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\wp\v2\pages\71.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-drawings%2Farchitecture%2F
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-drawings%2Farchitecture%2F&format=xml
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/Drawing Issue Sheet.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\Drawing Issue Sheet.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-0-1_Proposed Basement Floor Plan.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-0-1_Proposed Basement Floor Plan.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-0-2_Proposed Lower & Upper Ground Floor Plan.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-0-2_Proposed Lower & Upper Ground Floor Plan.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-0-3_Proposed First & Second Floor Plan.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-0-3_Proposed First & Second Floor Plan.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-0-4_Proposed Third & Fourth Floor Plan.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-0-4_Proposed Third & Fourth Floor Plan.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-0-5_Proposed Fifth & Sixth Floor Plan.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-0-5_Proposed Fifth & Sixth Floor Plan.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-0-6_Proposed Seventh Floor & Roof Plan.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-0-6_Proposed Seventh Floor & Roof Plan.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-0-7_Bedroom Types - Sheet 1_4.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-0-7_Bedroom Types - Sheet 1_4.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-0-8_Bedroom Types - Sheet 2_4.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-0-8_Bedroom Types - Sheet 2_4.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-0-9_Bedroom Types - Sheet 3_4.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-0-9_Bedroom Types - Sheet 3_4.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-0-10_Bedroom Types - Sheet 4_4.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-0-10_Bedroom Types - Sheet 4_4.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-1-1_Proposed Elevations A, B and C.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-1-1_Proposed Elevations A, B and C.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-2-1_Proposed Sections A-A', B-B' and C-C'.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-2-1_Proposed Sections A-A', B-B' and C-C'.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-2-2_Proposed Sections D-D', E-E', F-F' and G-G'.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-2-2_Proposed Sections D-D', E-E', F-F' and G-G'.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-3-1_Existing & Proposed Boundary Wall & Front Fence.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-3-1_Existing & Proposed Boundary Wall & Front Fence.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-3-2_ESB Substation & Switch Room - Plans, Elevations & Sections.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-3-2_ESB Substation & Switch Room - Plans, Elevations & Sections.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-OS-0-1_Ordnance Survey_Site Location Map.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-OS-0-1_Ordnance Survey_Site Location Map.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-S-0-1_Existing Site Survey.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-S-0-1_Existing Site Survey.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-S-0-2_Ground, Basement and First Floor Demolition Plans.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-S-0-2_Ground, Basement and First Floor Demolition Plans.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-S-0-3_Second, Third, Fourth, Fifth Floor and Roof Demolition Plans.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-S-0-3_Second, Third, Fourth, Fifth Floor and Roof Demolition Plans.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-S-0-4_Extent of original and non-original fabric of Hendrons to be removed - Floor Plans.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-S-0-4_Extent of original and non-original fabric of Hendrons to be removed - Floor Plans.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-S-0-5_Proposed Site Plan.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-S-0-5_Proposed Site Plan.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/architecture/P-S-1-1_Demolition Elevations.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\architecture\P-S-1-1_Demolition Elevations.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/wp-json/wp/v2/pages/73
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\wp\v2\pages\73.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-drawings%2Fengineering%2F
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-drawings%2Fengineering%2F&format=xml
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/1 - Document Issue Register (Civils).pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\1 - Document Issue Register (Civils).pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-P001 Site Location.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-P001 Site Location.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-P100 Site Layout.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-P100 Site Layout.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-P200 Drainage Layout.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-P200 Drainage Layout.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-P210 Typical Public Surface Water Details.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-P210 Typical Public Surface Water Details.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-P211 Typical Public Foul Water Details.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-P211 Typical Public Foul Water Details.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-P212 Typical Private Drainage Details.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-P212 Typical Private Drainage Details.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-P213 Typical SuDS Details.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-P213 Typical SuDS Details.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-P300 Watermain Layout.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-P300 Watermain Layout.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-P310 Watermain Details Sheet 1 of 3.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-P310 Watermain Details Sheet 1 of 3.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-P311 Watermain Details Sheet 2 of 3.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-P311 Watermain Details Sheet 2 of 3.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-P312 Watermain Details Sheet 3 of 3.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-P312 Watermain Details Sheet 3 of 3.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-S-P101 Block A Pile Layout.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-S-P101 Block A Pile Layout.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-S-P102 Block A Foundation Plan.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-S-P102 Block A Foundation Plan.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-S-P201 Block C, D and E Pile Layout.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-S-P201 Block C, D and E Pile Layout.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-S-P202 Block C, D and E Foundation Plans.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-S-P202 Block C, D and E Foundation Plans.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-S-P301 Elevations Sheet 1 - Sections A & B.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-S-P301 Elevations Sheet 1 - Sections A & B.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-S-P302 Elevations Sheet 2 - Sections E,F&G.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-S-P302 Elevations Sheet 2 - Sections E,F&G.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-S-P310 Wall Section&Outline Const. Detail.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-S-P310 Wall Section&Outline Const. Detail.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/18-039-S-P311 Temp. Protection Works to Gantrys.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\18-039-S-P311 Temp. Protection Works to Gantrys.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/19-018-E1000 Proposed Public Lighting Layout.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\19-018-E1000 Proposed Public Lighting Layout.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/19-018-E1001 Proposed Public Lighting Layout with Lux Levels.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\19-018-E1001 Proposed Public Lighting Layout with Lux Levels.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/engineering/Document Issue Register (Structural).pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\engineering\Document Issue Register (Structural).pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/wp-json/wp/v2/pages/75
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\wp\v2\pages\75.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-drawings%2Flandscape%2F
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fplanning-application-drawings%2Flandscape%2F&format=xml
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://westernwayshd.ie/library/drawings/landscape/6693-L-201-Landscape Proposal.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\landscape\6693-L-201-Landscape Proposal.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/drawings/landscape/Document Register_Issue Sheet.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\drawings\landscape\Document Register_Issue Sheet.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/wp-json/wp/v2/pages/219
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\wp\v2\pages\219.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fparticulars%2F
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://westernwayshd.ie/wp-json/oembed/1.0/embed?url=https:%2F%2Fwesternwayshd.ie%2Fparticulars%2F&format=xml
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://westernwayshd.ie/library/particulars/An Bord Pleanala Cover Letter.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\particulars\An Bord Pleanala Cover Letter.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/particulars/Application Form.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\particulars\Application Form.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/particulars/Dublin City Council Cover Letter.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\particulars\Dublin City Council Cover Letter.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/particulars/Land Owners Consent.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\particulars\Land Owners Consent.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/particulars/Letters to Prescribed Bodies.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\particulars\Letters to Prescribed Bodies.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/particulars/Newspaper Notice.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\particulars\Newspaper Notice.pdf
+Content Type: application/pdf
+
+Uri: https://westernwayshd.ie/library/particulars/Site Notice.pdf
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\library\particulars\Site Notice.pdf
+Content Type: application/pdf
+
+Uri: https://buchanan-solutions.com/
+File Name: C:\Downloaded Web Sites\westernwayshd.ie\index-2.htm
+Content Type: text/html
+
